@@ -1,0 +1,4 @@
+baseURL = "https://kuol.github.io"
+languageCode = "en-us"
+title = "Kuo Liu's personal git page"
+theme = "ananke"
