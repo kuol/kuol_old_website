@@ -3,10 +3,12 @@ date: 2017-04-09T10:58:08-04:00
 description: "The Grand Hall"
 featured_image: "/images/clouds.jpg"
 tags: ["scene"]
-title: "Chapter I: The Grand Hall"
+title: "H1B Data Analysis"
 ---
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<div id="7ed07c9c-981c-4584-a383-11e76c7d07c4" style="height: 200; width: 300;" class="plotly-graph-div"></div><script type="text/javascript">window.PLOTLYENV=window.PLOTLYENV || {};window.PLOTLYENV.BASE_URL="https://plot.ly";Plotly.newPlot("7ed07c9c-981c-4584-a383-11e76c7d07c4", [{"type": "scatter", "x": [2013, 2014, 2015, 2016, 2017], "y": [442277, 519504, 618804, 647852, 624650], "mode": "lines+markers", "name": "H-1B"}, {"type": "scatter", "x": [2013, 2014, 2015, 2016, 2017], "y": [44152, 70998, 88994, 126143, 97603], "mode": "lines+markers", "name": "PERM"}], {}, {"showLink": true, "linkText": "Export to plot.ly"})</script>
 
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+<iframe width="400" height="300" frameborder="0" scrolling="no" src="//plot.ly/~liukuo99/1.embed"></iframe>
 
 Three hundred and forty-eight years, six months, and nineteen days ago
 to-day, the Parisians awoke to the sound of all the bells in the triple
