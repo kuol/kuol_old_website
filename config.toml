@@ -9,6 +9,7 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+disqusShortname = "https-kuoliu-netlify-com"
 
 [sitemap]
   changefreq = "monthly"
@@ -29,4 +30,3 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/clouds.jpg"
   recent_posts_number = 2
-  disqusShortname = "https-kuoliu-netlify-com"
