@@ -1,6 +1,6 @@
 ---
-date: 2017-04-09T10:58:08-04:00
-featured_image: "/images/clouds.jpg"
+date: 2018-09-28T10:58:08-04:00
+featured_image: "/images/h1b-visa.jpg"
 tags: ["data analysis", "visualization", "plotly", "python"]
 title: "H1B Data Analysis"
 ---
